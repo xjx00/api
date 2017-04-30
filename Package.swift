@@ -7,9 +7,9 @@ let package = Package(
     ],
     exclude: [
         "Config",
-        "Database",
-        "Localization",
-        "Public",
-        "Resources",
+        //"Database",
+        //"Localization",
+        //"Public",
+        //"Resources",
     ]
 )
